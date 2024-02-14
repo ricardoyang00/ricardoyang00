@@ -1,2 +1,2 @@
 
-<p><img src="text.gif"></p>
+<p align="center"><img src="text.gif"></p>
