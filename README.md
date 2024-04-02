@@ -1,2 +1,2 @@
 
-<p align="center"><img src="goodday.gif"></p>
+<p align="center"><img src="snake_eat_eat_eat.gif"></p>
