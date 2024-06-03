@@ -1,1 +1,1 @@
-<p align="center"><img src="pedropedropedropedro.gif"></p>
+<p align="center"><img src="c.gif"></p>
