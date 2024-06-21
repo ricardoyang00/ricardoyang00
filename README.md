@@ -13,19 +13,14 @@
 
 <br/>
 
-<div align="center"> 
-    
-  <a href="mailto:ricardo.yang00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ricardo-yang00/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,css,html,js,php,dart" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,clion,idea" />
+    <img src="https://skillicons.dev/icons?i=flutter,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,ps" />
 </div>
 
-<br/>
 
 <div align="center">
     <picture>
