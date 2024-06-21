@@ -14,11 +14,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,css,html,js,php,dart" />
-    </br>
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,clion,idea" />
-    <img src="https://skillicons.dev/icons?i=flutter,figma,firebase" />
-    <img src="https://skillicons.dev/icons?i=apple,linux,ps" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,css,html,js,php,dart" /></br>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,clion,idea,flutter,figma,firebase,apple,linux,ps" />
 </div>
 
 
