@@ -11,12 +11,7 @@
   
 </div>
 
-<br/>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,css,html,js,php,dart" /></br>
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,clion,idea,flutter,figma,firebase,apple,linux,ps" />
-</div>
 
 
 <div align="center">
