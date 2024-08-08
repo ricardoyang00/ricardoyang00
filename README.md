@@ -7,7 +7,7 @@
 
 <div align="center">
     
-  🌱 Currently studying Informatics Engineering at **@FEUP**
+  🌱 Playing with code
   
 </div>
 
