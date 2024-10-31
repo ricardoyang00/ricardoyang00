@@ -1,5 +1,9 @@
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=600&height=150&lines=I'm+Ricardo+Yang+%F0%9F%91%8B;Welcome+to+my+Github;Let's+make+it+epic!+%F0%9F%8C%8A"></p>
+<div align="center">
+
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=600&height=150&lines=I'm+Ricardo+Yang+%F0%9F%91%8B;Welcome+to+my+Github+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;"></a>
+
+</div>
 
 <div align="center">
     <picture>
