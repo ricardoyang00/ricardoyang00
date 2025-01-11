@@ -8,7 +8,7 @@
 <br>
 
 <p align=center>
-Porto based, Chinese descent, CS student at @FEUP
+Porto based, Informatics Engineering student at @FEUP
 
 </p>
 
