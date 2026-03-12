@@ -1,14 +1,16 @@
 
-<div align="center">
 
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=16&duration=1700&pause=1000&color=3D99C5&background=FFFFFF&center=true&vCenter=true&random=false&width=300&height=80&lines=Hi,+I'm+Ricardo+Yang+%F0%9F%91%8B;Welcome+to+my+Github;" width=50%></a>
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&height=300&text=Ricardo%20Yang&fontSize=50&reversal=false&section=header&desc=architecting%20intelligence&fontAlignY=47&textBg=false&descAlign=55&descSize=20&descAlignY=59&theme=dark)
+
+
+
+  [![Website](https://img.shields.io/badge/website-000000?style=flat&logo=safari&logoColor=white)](https://277477.xyz)
+
+
+
+
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)  
 
 </div>
-
-
-<h4 align="center"><samp>
-
-</samp></h4>
-
-
-
