@@ -2,15 +2,13 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&height=300&text=Ricardo%20Yang&fontSize=50&reversal=false&section=header&desc=architecting%20intelligence&fontAlignY=47&textBg=false&descAlign=55&descSize=20&descAlignY=59&theme=dark)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5E5CE6,100:FF375F&text=Ricardo%20Yang&desc=architecting%20intelligence&descAlign=58&fontSize=60&descSize=20&fontAlignY=40&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
 
 
-  [![Website](https://img.shields.io/badge/website-000000?style=flat&logo=safari&logoColor=white)](https://277477.xyz)
+  [![Website](https://img.shields.io/badge/website-5E5CE6?style=flat&logo=safari&logoColor=white)](https://277477.xyz)
 
 
 
-
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)  
 
 </div>
