@@ -1,5 +1,4 @@
 
-![](https://capsule-render.vercel.app/api?type=rect&color=30:B9D8EE,100:254579&height=7)
 
 Hi there 👋
 
