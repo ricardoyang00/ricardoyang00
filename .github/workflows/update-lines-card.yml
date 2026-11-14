@@ -1,0 +1,37 @@
+name: Update lines card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache/repos
+          key: repos-${{ github.run_id }}
+          restore-keys: repos-
+
+      - run: python3 scripts/render_lines_card.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.LINES_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit card update
+        run: |
+          if [ -z "$(git status --porcelain -- assets)" ]; then
+            echo "No card changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/lines-dark.svg assets/lines-light.svg
+          git commit -m "chore: update lines card"
+          git push
